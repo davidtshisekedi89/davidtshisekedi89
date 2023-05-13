@@ -1,5 +1,5 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-### Hi there 👋
+[![Header](https://github.com/davidtshisekedi89/davidtshisekedi89/blob/300a5b8112469c8f663345a8dad41c8dd5030fc5/R.jpg "Header")](https://some-url.dev/)
+<h1 align="center"> Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 
 **davidtshisekedi89/davidtshisekedi89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidtshisekedi89&show_icons=true&theme=radical)](https://github.com/davidtshisekedi89/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidtshisekedi89&show_icons=true&theme=radical)](https://github.com/davidtshisekedi89/github-readme-stats)
