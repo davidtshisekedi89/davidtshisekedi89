@@ -43,11 +43,8 @@ Here are some ideas to get you started:
         <li> 🗃 <a href="https://drive.google.com/file/d/1AhOaKDtilNsdIj4Pp_Ue4G0mFfHXT2t7/view?usp=sharing"> My Fancy Resume! </a> </li>
     </td>
     <td style="width:50%">
-        <img src=./Assets/img/ScrollingItem.gif style="width:500px"/>
-        <div>
-            <a href="https://storyset.com/web">Web illustrations by Storyset</a>
-            <p>Animated using Figma, <a href="https://www.figma.com/community/plugin/733025261168520714/Figmotion">Figmotion</a><p>
-        </div>
+        <img src="https://github.com/davidtshisekedi89/davidtshisekedi89/blob/4fb998afb32f03f2d2ae540635d22a372e3ebe8f/img/ScrollingItem.gif"  style="width:500px"/>
+       
     </td>
   </tr>
 </table> 
