@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <tr>
     <td style="width:50%">
       <ul>
-        <li> 📛 <b>Name:</b> Anthony Do</li>
+        <li> 📛 <b>Name:</b> </li>
         <li> 🌱 <b>Active Projects: </b></li>
             <ul>
                 <li>Learning Godot & Unreal</li>
@@ -32,10 +32,10 @@ Here are some ideas to get you started:
         <li> 🌽 <b>Interested In:</b> Augmented Reality, Virtual Reality, Game Development, Full Stack Development</li>
         <li> 🎮 <b>Hobbies:</b>
           <ul>
-            <li> Games </li>
-            <li> Knitting </li> 
-            <li> 3D Modeling/Animating </li>
-            <li> Pixel Art </li>
+            <li>  </li>
+            <li>  </li> 
+            <li>  </li>
+            <li> </li>
           </ul>
         </li>
         <li> 💬 How was your Day? </li>
