@@ -1,6 +1,8 @@
-[![Header](https://github.com/davidtshisekedi89/davidtshisekedi89/blob/300a5b8112469c8f663345a8dad41c8dd5030fc5/R.jpg "Header")](https://some-url.dev/)
-<h1 align="center"> Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
+<h1 align="center"> Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<div> 
+   <img src="https://github.com/davidtshisekedi89/davidtshisekedi89/blob/24bd054ff94c2b81daacf6062315180e7860534c/img/Code%20typing-bro.png">
+</div>
 
 <!-- **davidtshisekedi89/davidtshisekedi89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,11 +24,11 @@ Here are some ideas to get you started:
   <tr>
     <td style="width:50%">
       <ul>
-        <li> 📛 <b>Name:</b> </li>
+        <li> 📛 <b>Name:</b> David T </li>
         <li> 🌱 <b>Active Projects: </b></li>
             <ul>
-                <li>Learning Godot & Unreal</li>
-                <li>Microsoft Sticker Keyboard</li>
+                <li></li>
+                <li></li>
             </ul>
         <li> 🔭  </li>
         <li> 🌽 <b>Interested In:</b> Augmented Reality, Virtual Reality, Game Development, Full Stack Development</li>
@@ -45,7 +47,7 @@ Here are some ideas to get you started:
     <td style="width:50%">
         <img src="https://github.com/davidtshisekedi89/davidtshisekedi89/blob/4fb998afb32f03f2d2ae540635d22a372e3ebe8f/img/ScrollingItem.gif"  style="width:500px"/>
        
-    </td>
+    
   </tr>
 </table> 
 
