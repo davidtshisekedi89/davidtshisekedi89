@@ -24,14 +24,14 @@ Here are some ideas to get you started:
   <tr>
     <td style="width:50%">
       <ul>
-        <li> 📛 <b>Name:</b> David T </li>
+        <li> 😄 <b>Name:</b> David T </li>
         <li> 🌱 <b>Active Projects: </b></li>
             <ul>
                 <li></li>
                 <li></li>
             </ul>
         <li> 🔭  </li>
-        <li> 🌽 <b>Interested In:</b> Augmented Reality, Virtual Reality, Game Development, Full Stack Development</li>
+        <li> 🌽 <b>Interested In:</b> </li>
         <li> 🎮 <b>Hobbies:</b>
           <ul>
             <li>  </li>
