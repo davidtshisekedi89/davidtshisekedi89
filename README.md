@@ -24,14 +24,14 @@ Here are some ideas to get you started:
   <tr>
     <td style="width:50%">
       <ul>
-        <li> 😄 <b>Name:</b> David T </li>
+        <li> 👋 <b>I'm:</b> David T </li>
         <li> 🌱 <b>Active Projects: </b></li>
             <ul>
                 <li></li>
                 <li></li>
             </ul>
         <li> 🔭  </li>
-        <li> 🌽 <b>Interested In:</b> </li>
+        <li> 👀 <b>Interested In:</b>  I’m interested in Programming </li>
         <li> 🎮 <b>Hobbies:</b>
           <ul>
             <li>  </li>
@@ -40,7 +40,6 @@ Here are some ideas to get you started:
             <li> </li>
           </ul>
         </li>
-        <li> 💬 How was your Day? </li>
         <li> 📫 <b>Want to reach out?</b> Hit me up with an email or direct message! </li>
         <li> 🗃 <a href="https://"> Resume </a> </li>
     </td>
