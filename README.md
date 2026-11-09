@@ -21,7 +21,7 @@ In my free time, I enjoy playing video games, especially strategy and simulation
 
 ### 📫 Want to reach out?
 Hit me up with an email or direct message!
-- Email: kabasele25@gmail.com
+- Email: devdt007@gmail.com
 - LinkedIn: https://www.linkedin.com/in/david-tshisekedi-169a29264/
 - GitHub: https://davidtshisekedi89.github.io/
 
