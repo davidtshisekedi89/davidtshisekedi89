@@ -1,53 +1,38 @@
-<h1 align="center"> Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+# Hi, I'm David 👋
 
-<div>
-   <img align="right" src="https://github.com/davidtshisekedi89/davidtshisekedi89/blob/24bd054ff94c2b81daacf6062315180e7860534c/img/Code%20typing-bro.png" width="400" height="400">
-</div>
+### Java Backend Developer | Spring Boot | REST APIs | SQL | AWS
 
-<!-- GET A REAL BANNER -->
+I'm a software developer focused on building reliable, secure, and scalable backend applications using Java and Spring Boot.
 
-## 👋 I'm David T
+I enjoy designing RESTful APIs, working with relational databases, solving technical problems, and developing applications that address real-world needs.
 
-### 🌱 Active Projects:
-- 🔭 Developing a web application.
-- 🔭 Building a personal portfolio website to showcase my coding projects and skills.
-- 🌱 Alongside programming, I'm honing my skills in web design tools and techniques with Adobe XD and Figma to create visually appealing and user-friendly website layouts.
+## 💻 Technical Skills
 
-### 👀 Interested In:
-I’m interested in Programming, particularly in Fullstack Development. I love working with both front-end and back-end technologies to create robust and dynamic applications.
+- **Backend:** Java 17, Spring Boot, Spring Security, Hibernate, JPA, REST APIs
+- **Databases:** MySQL, PostgreSQL, SQL
+- **Frontend:** React, JavaScript, HTML, CSS
+- **Cloud & DevOps:** AWS, Docker, GitHub Actions
+- **Testing:** JUnit, Mockito
+- **Tools:** Git, GitHub, Maven, Postman
 
-### 🎮 Hobbies:
-In my free time, I enjoy playing video games, especially strategy and simulation games. It helps me unwind and provides a fresh perspective on problem-solving.
+## 🚀 Featured Projects
 
-### 📫 Want to reach out?
-Hit me up with an email or direct message!
-- Email: devdt007@gmail.com
-- LinkedIn: https://www.linkedin.com/in/david-tshisekedi-169a29264/
-- GitHub: https://davidtshisekedi89.github.io/
+### [FinTech Backend Service](https://github.com/davidtshisekedi89/fintech-backend)
 
-🗃 [Resume]([https://your-resume-link.com](https://resume.creddle.io/resume/3y4zppuip1h))
+A Spring Boot backend project exploring payment authorization, transaction reconciliation, and fraud detection.
 
-<hr>
+### [TV Show Rating System](https://github.com/davidtshisekedi89/Tv-show-Project-Rating-System)
 
-## Languages and Tools:
+A full-stack application using Java Spring, MySQL, JSP, CSS, and JavaScript.
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/flask/flask.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+## 🎯 Career Goals
 
-<hr>
+I'm interested in Java Backend Developer and Full Stack Developer opportunities where I can contribute to meaningful software projects, collaborate with engineering teams, and continue growing my technical skills.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidtshisekedi89&show_icons=true&theme=radical)](https://github.com/davidtshisekedi89/github-readme-stats)
+## 📫 Connect With Me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidtshisekedi89&show_icons=true&theme=radical)](https://github.com/davidtshisekedi89/github-readme-stats)
+- **Email:** [devdt007@gmail.com](mailto:devdt007@gmail.com)
+- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/david-tshisekedi-169a29264/)
+- **Portfolio:** [My Portfolio](https://davidtshisekedi89.github.io/)
+- **GitHub:** [davidtshisekedi89](https://github.com/davidtshisekedi89)
+- **Resume:** [View My Resume](https://resume.creddle.io/resume/3y4zppuip1h)
