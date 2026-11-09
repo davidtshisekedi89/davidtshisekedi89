@@ -27,7 +27,7 @@ A full-stack application using Java Spring, MySQL, JSP, CSS, and JavaScript.
 
 ### [Ladybag — React E-commerce Storefront](https://github.com/davidtshisekedi89/ladybag)
 
-A React and Redux Toolkit storefront with product browsing, shopping cart, and checkout forms. Integrates with a separate backend and Stripe Checkout; currently a portfolio prototype.
+A full-stack React and Java 17 Spring Boot storefront featuring product APIs, a Redux shopping cart, and Stripe test-mode checkout integration. Local demo; not production-ready.
 
 ## 🎯 Career Goals
 
