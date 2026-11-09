@@ -25,6 +25,10 @@ A Spring Boot backend project exploring payment authorization, transaction recon
 
 A full-stack application using Java Spring, MySQL, JSP, CSS, and JavaScript.
 
+### [Ladybag — React E-commerce Storefront](https://github.com/davidtshisekedi89/ladybag)
+
+A React and Redux Toolkit storefront with product browsing, shopping cart, and checkout forms. Integrates with a separate backend and Stripe Checkout; currently a portfolio prototype.
+
 ## 🎯 Career Goals
 
 I'm interested in Java Backend Developer and Full Stack Developer opportunities where I can contribute to meaningful software projects, collaborate with engineering teams, and continue growing my technical skills.
